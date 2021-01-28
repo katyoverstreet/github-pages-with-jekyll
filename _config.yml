@@ -2,9 +2,9 @@ theme: minima
 title: My Coding Blog
 
 author: Katy Overstreet
-email: your-email@domain.com
+email: kaoverstreet00@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This blog will show my journey as I learn how to program.
+  This blog will describe my journey as I learn how to program.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
